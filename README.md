@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hi, I'm Soham
 
-<!--
-**Yureien/Yureien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I contribute to open source when I'm not busy writing assignments.
 
-Here are some ideas to get you started:
+More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkout my [blog](https://blog.sohamsen.me/) too!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![My stats](https://github-readme-stats.vercel.app/api?username=Yureien&count_private=true&show_icons=true&theme=dracula)
+
+## :zap: Recent Activity ~(I'm not _that_ dead)~
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
