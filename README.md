@@ -11,9 +11,9 @@ More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkou
 ## :zap: Recent Activity ~(I'm not _that_ dead)~
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ngi-nix/fractal/issues/1) in [ngi-nix/fractal](https://github.com/ngi-nix/fractal)
-2. 🗣 Commented on [#1](https://github.com/ngi-nix/fractal/issues/1) in [ngi-nix/fractal](https://github.com/ngi-nix/fractal)
-3. 💪 Opened PR [#188021](https://github.com/NixOS/nixpkgs/pull/188021) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#188018](https://github.com/NixOS/nixpkgs/pull/188018) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 💪 Opened PR [#188015](https://github.com/NixOS/nixpkgs/pull/188015) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#366](https://github.com/jd/tenacity/pull/366) in [jd/tenacity](https://github.com/jd/tenacity)
+2. 💪 Opened PR [#68](https://github.com/kossiitkgp/KWoC-Backend/pull/68) in [kossiitkgp/KWoC-Backend](https://github.com/kossiitkgp/KWoC-Backend)
+3. 💪 Opened PR [#67](https://github.com/kossiitkgp/KWoC-Backend/pull/67) in [kossiitkgp/KWoC-Backend](https://github.com/kossiitkgp/KWoC-Backend)
+4. ❗️ Closed issue [#1](https://github.com/ngi-nix/fractal/issues/1) in [ngi-nix/fractal](https://github.com/ngi-nix/fractal)
+5. 🗣 Commented on [#1](https://github.com/ngi-nix/fractal/issues/1) in [ngi-nix/fractal](https://github.com/ngi-nix/fractal)
 <!--END_SECTION:activity-->
