@@ -15,9 +15,9 @@ More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkou
 ## ⚡️ Recent Activity ~(I'm not _that_ dead)~
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2146](https://github.com/gofiber/fiber/issues/2146) in [gofiber/fiber](https://github.com/gofiber/fiber)
-2. 💪 Opened PR [#2146](https://github.com/gofiber/fiber/pull/2146) in [gofiber/fiber](https://github.com/gofiber/fiber)
-3. 🎉 Merged PR [#1](https://github.com/Yureien/text-fragment-scraper/pull/1) in [Yureien/text-fragment-scraper](https://github.com/Yureien/text-fragment-scraper)
-4. 💪 Opened PR [#1](https://github.com/Yureien/text-fragment-scraper/pull/1) in [Yureien/text-fragment-scraper](https://github.com/Yureien/text-fragment-scraper)
-5. 🗣 Commented on [#67](https://github.com/kossiitkgp/KWoC-Backend/issues/67) in [kossiitkgp/KWoC-Backend](https://github.com/kossiitkgp/KWoC-Backend)
+1. 🗣 Commented on [#28](https://github.com/sheharyaar/iit-kgp-network/issues/28) in [sheharyaar/iit-kgp-network](https://github.com/sheharyaar/iit-kgp-network)
+2. 🗣 Commented on [#2146](https://github.com/gofiber/fiber/issues/2146) in [gofiber/fiber](https://github.com/gofiber/fiber)
+3. 💪 Opened PR [#2146](https://github.com/gofiber/fiber/pull/2146) in [gofiber/fiber](https://github.com/gofiber/fiber)
+4. 🎉 Merged PR [#1](https://github.com/Yureien/text-fragment-scraper/pull/1) in [Yureien/text-fragment-scraper](https://github.com/Yureien/text-fragment-scraper)
+5. 💪 Opened PR [#1](https://github.com/Yureien/text-fragment-scraper/pull/1) in [Yureien/text-fragment-scraper](https://github.com/Yureien/text-fragment-scraper)
 <!--END_SECTION:activity-->
