@@ -15,9 +15,9 @@ More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkou
 ## ⚡️ Recent Activity ~(I'm not _that_ dead)~
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Yureien/YABin/issues/5) in [Yureien/YABin](https://github.com/Yureien/YABin)
-2. 🗣 Commented on [#1506](https://github.com/SoftwareBrothers/adminjs/issues/1506) in [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
-3. 🗣 Commented on [#1506](https://github.com/SoftwareBrothers/adminjs/issues/1506) in [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
-4. 💪 Opened PR [#3898](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3898) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. ❗ Opened issue [#5](https://github.com/Yureien/YABin/issues/5) in [Yureien/YABin](https://github.com/Yureien/YABin)
+1. 🚀 Published release [v0.1.1](https://github.com/v0.1.1) in [Yureien/YABin](https://github.com/Yureien/YABin)
+2. 🗣 Commented on [#6](https://github.com/Yureien/YABin/issues/6) in [Yureien/YABin](https://github.com/Yureien/YABin)
+3. 🗣 Commented on [#5](https://github.com/Yureien/YABin/issues/5) in [Yureien/YABin](https://github.com/Yureien/YABin)
+4. 🗣 Commented on [#1506](https://github.com/SoftwareBrothers/adminjs/issues/1506) in [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
+5. 🗣 Commented on [#1506](https://github.com/SoftwareBrothers/adminjs/issues/1506) in [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs)
 <!--END_SECTION:activity-->
