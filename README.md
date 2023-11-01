@@ -15,9 +15,9 @@ More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkou
 ## ⚡️ Recent Activity ~(I'm not _that_ dead)~
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Yureien/YABin/issues/19#issuecomment-1786469253) in [Yureien/YABin](https://github.com/Yureien/YABin)
-2. 🎉 Merged PR [#26](https://github.com/Yureien/YABin/pull/26) in [Yureien/YABin](https://github.com/Yureien/YABin)
-3. 💪 Opened PR [#26](https://github.com/Yureien/YABin/pull/26) in [Yureien/YABin](https://github.com/Yureien/YABin)
-4. 🎉 Merged PR [#25](https://github.com/Yureien/YABin/pull/25) in [Yureien/YABin](https://github.com/Yureien/YABin)
-5. 💪 Opened PR [#25](https://github.com/Yureien/YABin/pull/25) in [Yureien/YABin](https://github.com/Yureien/YABin)
+1. 🎉 Merged PR [#27](https://github.com/Yureien/YABin/pull/27) in [Yureien/YABin](https://github.com/Yureien/YABin)
+2. 🗣 Commented on [#27](https://github.com/Yureien/YABin/pull/27#issuecomment-1787886145) in [Yureien/YABin](https://github.com/Yureien/YABin)
+3. 🗣 Commented on [#19](https://github.com/Yureien/YABin/issues/19#issuecomment-1786469253) in [Yureien/YABin](https://github.com/Yureien/YABin)
+4. 🎉 Merged PR [#26](https://github.com/Yureien/YABin/pull/26) in [Yureien/YABin](https://github.com/Yureien/YABin)
+5. 💪 Opened PR [#26](https://github.com/Yureien/YABin/pull/26) in [Yureien/YABin](https://github.com/Yureien/YABin)
 <!--END_SECTION:activity-->
