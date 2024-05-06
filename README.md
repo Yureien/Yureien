@@ -15,9 +15,9 @@ More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkou
 ## ⚡️ Recent Activity ~(I'm not _that_ dead)~
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/Yureien/YABin/pull/44) in [Yureien/YABin](https://github.com/Yureien/YABin)
-2. 🔒 Closed issue [#47](https://github.com/Yureien/YABin/issues/47) in [Yureien/YABin](https://github.com/Yureien/YABin)
-3. 🗣 Commented on [#47](https://github.com/Yureien/YABin/issues/47#issuecomment-2027146439) in [Yureien/YABin](https://github.com/Yureien/YABin)
-4. 🚀 Published release [v0.3.0](https://github.com/Yureien/YABin/releases/tag/v0.3.0) in [Yureien/YABin](https://github.com/Yureien/YABin)
-5. 🗣 Commented on [#47](https://github.com/Yureien/YABin/issues/47#issuecomment-2027067711) in [Yureien/YABin](https://github.com/Yureien/YABin)
+1. 🗣 Commented on [#43](https://github.com/Yureien/YABin/issues/43#issuecomment-2096181143) in [Yureien/YABin](https://github.com/Yureien/YABin)
+2. 🗣 Commented on [#34](https://github.com/Yureien/YABin/issues/34#issuecomment-2096059547) in [Yureien/YABin](https://github.com/Yureien/YABin)
+3. 🗣 Commented on [#34](https://github.com/Yureien/YABin/issues/34#issuecomment-2096057552) in [Yureien/YABin](https://github.com/Yureien/YABin)
+4. 🗣 Commented on [#39](https://github.com/Yureien/YABin/issues/39#issuecomment-2096056168) in [Yureien/YABin](https://github.com/Yureien/YABin)
+5. 🗣 Commented on [#50](https://github.com/Yureien/YABin/issues/50#issuecomment-2096053927) in [Yureien/YABin](https://github.com/Yureien/YABin)
 <!--END_SECTION:activity-->
