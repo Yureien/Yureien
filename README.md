@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Soham
 
-I contribute to open source when I'm not busy writing assignments.
+~~I contribute to open source when I'm not busy writing assignments.~~
+EDIT: I _will_ contribute to open source when I figure out how to balance work, life and open-source contributions (new grad moment). I'd love it if you could shoot me a mail @ [contact@sohamsen.me](mailto:contact@sohamsen.me) when you encounter issues on any of my projects, GitHub notifications gets buried down amongst other mails at times.
 
 More info on my website, [https://sohamsen.me](https://sohamsen.me/). Do checkout my [blog](https://blog.sohamsen.me/) too!
 
